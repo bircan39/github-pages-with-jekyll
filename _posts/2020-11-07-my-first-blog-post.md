@@ -1,2 +1,4 @@
-2020-11-07
-# Bircan
+---
+title: "Birconun Mekani"
+date: 2020-11-07
+---
